@@ -1,1 +1,3 @@
-# radixSort
+# Radix sort
+
+Number sorting algorthm
